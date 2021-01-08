@@ -1,0 +1,30 @@
+.pragmatic_logo {
+    font-family: 'Carter One', cursive;
+}
+.pragmatic_footer_button {
+    font-size: 0.9rem;
+}
+
+.pragmatic_footer {
+    text-align:center; margin-top: 2rem;
+}
+
+.pragmatic_header {
+    text-align:center;
+    margin: 2rem 0;
+}
+
+@media screen and (max-width:500px){
+    html {
+        font-size: 13px;
+    }
+}
+
+a {
+    color
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
